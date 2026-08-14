@@ -1,3 +1,3 @@
-var a=10;
+var a=60;
 var b=11;
 document.write(a);
